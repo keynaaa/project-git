@@ -1,4 +1,4 @@
-# new-project
+# project-git
 
 ## Kelompok 4
 1. Mirna Ainur Mustika Putri - L0225005
